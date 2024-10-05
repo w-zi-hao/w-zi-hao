@@ -1,5 +1,15 @@
 ## Hi there 👋
+#NAME
 
+MY NAME IS WANGZIHAO
+
+#HOBBY
+
+MY HOBBY IS SOCCER
+
+#SKILL
+
+I CAN OPERATE CPP.(JUST A LITTLE)
 <!--
 **w-zi-hao/w-zi-hao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
